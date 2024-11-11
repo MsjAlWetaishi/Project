@@ -1,2 +1,0 @@
-username: cCode
-password: salam_salam
