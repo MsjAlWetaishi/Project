@@ -2,3 +2,4 @@ Hello World!!
 create variable x
 take input from users
 assign to variable
+print the value followed by "is your secrete code number in the game"
