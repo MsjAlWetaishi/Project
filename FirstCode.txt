@@ -1,1 +1,4 @@
 Hello World!!
+create variable x
+take input from users
+assign to variable
